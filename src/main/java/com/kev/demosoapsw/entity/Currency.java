@@ -1,4 +1,4 @@
-package com.kev.demosoapsw;
+package com.kev.demosoapsw.entity;
 
 import javax.persistence.*;
 
